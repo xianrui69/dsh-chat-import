@@ -1,3 +1,9 @@
+> **这是 AI 草稿 fork**（xianrui69 本地实验仓库），不是插件正式仓库。
+>
+> 正式仓库：[Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)
+>
+> 本次改动请看上游正式 PR：https://github.com/Nwflower/dsh-chat-import/pull/29
+
 <div align="center">
 
 <img src="./assets/dci-promo.png" alt="DSH Chat Import" width="100%" />
