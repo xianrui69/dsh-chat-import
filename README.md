@@ -1,8 +1,10 @@
-> **这是 AI 草稿 fork**（xianrui69 本地实验仓库），不是插件正式仓库。
+> **这是 AI 草稿 fork，不是正式仓库。**
 >
-> 正式仓库：[Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)
+> 协作原则：让上游越来越好，开源共荣。别人的项目不在 fork 里长期平行维护，改动合回原作者仓库。
 >
-> 本次改动请看上游正式 PR：https://github.com/Nwflower/dsh-chat-import/pull/29
+> - 正式插件：[Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)
+> - 本次贡献：https://github.com/Nwflower/dsh-chat-import/pull/29
+> - 本仓库只作起草/试装，合进上游后不必再当产品仓库用
 
 <div align="center">
 
